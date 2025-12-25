@@ -2,7 +2,7 @@
 
 **全自動levelBugModです🎉**
 
-__〘HOME〙__Frieze keybinds メニューのキーバインド機能を全停止します
+〘HOME〙Frieze keybinds メニューのキーバインド機能を全停止します
 
 〘Del〙Toggle Menu メニューの表示
 
