@@ -1,4 +1,4 @@
-AmongUs steam 16.0.2に対応
+__AmongUs Steam 16.0.2に対応__
 
 全自動levelBugModです🎉
 
