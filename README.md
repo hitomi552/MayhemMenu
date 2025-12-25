@@ -2,11 +2,11 @@ AmongUs steam 16.0.2に対応
 
 全自動levelBugModです🎉
 
-〘HOME〙Menuのキーバインド機能を全停止します
+〘HOME〙Frieze keybinds メニューのキーバインド機能を全停止します
 
-〘Del〙Menuの表示
+〘Del〙Toggle Menu メニューの表示
 
-〘PAUSE〙Menuを使用不可にします
+〘PAUSE〙Panic Mode メニューを使用不可にします
 
 〘F5〙Auto Start Game 自動的に開始します。暗転あり
 
