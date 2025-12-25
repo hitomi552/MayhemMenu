@@ -4,7 +4,7 @@
 
 〘HOME〙Frieze keybinds メニューのキーバインド機能を全停止します
 
-〘Del〙Toggle Menu メニューの表示
+〘Delet〙Toggle Menu メニューの表示
 
 〘PAUSE〙Panic Mode メニューを使用不可にします
 
