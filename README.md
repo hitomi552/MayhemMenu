@@ -1,7 +1,8 @@
 AmongUs steam 16.0.2に対応
+
 全自動levelBugModです🎉
 
-使い方
+〘使い方〙
 
 exeと同列にversion.dllを配置し起動することで自動的にレベル上げが開始されます
 
