@@ -1,6 +1,6 @@
 __AmongUs Steam 16.0.2に対応__
 
-全自動levelBugModです🎉
+**全自動levelBugModです🎉**
 
 〘HOME〙Frieze keybinds メニューのキーバインド機能を全停止します
 
